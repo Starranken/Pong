@@ -93,7 +93,7 @@ function draw() {
     ||
    \||/
     \/  */
-    //coPaddle.y = ball.y;
+    coPaddle.y = ball.y;
     //plPaddle.y = mouseY;
   }
 
